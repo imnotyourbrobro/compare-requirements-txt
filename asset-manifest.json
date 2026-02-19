@@ -1,0 +1,10 @@
+{
+  "files": {
+    "main.js": "/compare-requirements-txt/static/js/main.76556df9.js",
+    "index.html": "/compare-requirements-txt/index.html",
+    "main.76556df9.js.map": "/compare-requirements-txt/static/js/main.76556df9.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.76556df9.js"
+  ]
+}
